@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ymelda Monari</h1>
+<h1 align="center">Hi, I'm Ymelda Monari</h1>
 <!-- <h3 align="center">A passionate android developer from Nairobi, Kenya.</h3>
-<img align="center" alt="gif"width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"> -->
-
+<!-- <img align="center" alt="gif"width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"> -->
+ -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynyanchoka&label=Profile%20views&color=0e75b6&style=flat" alt="ynyanchoka" /> </p>
 

@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/monarinyash" target="blank"><img src="https://img.shields.io/twitter/follow/monarinyash?logo=twitter&style=for-the-badge" alt="monarinyash" /></a> </p>
 
-- 🌱 I’m currently learning **java and kotlin for android development**
+-  I’m currently learning **java and kotlin for android development**
 
-- 👯 I’m looking to collaborate **on any interesting projects.**
+- I’m looking to collaborate **on any interesting projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
